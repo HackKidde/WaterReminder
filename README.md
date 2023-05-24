@@ -26,7 +26,7 @@ The Water Reminder App is a simple application that reminds you to drink water a
 
 2. Download or clone the repository.
 
-3. Run the `wr_os.py` file using Python:
+3. Run the `water_reminder.py` file using Python:
 
 py water_reminder.py or python water_reminder.py
 
